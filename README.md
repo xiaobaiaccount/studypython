@@ -23,3 +23,6 @@ image.filter(ImageFilter.BLUR):是滤波器   ImageFilter.BLUR为模糊滤波，
 
 
 
+2.外星人入侵项目
+
+   python编程：从入门到实践中
